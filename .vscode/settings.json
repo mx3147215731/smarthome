@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "control.h": "c",
+        "gdevice.h": "c",
+        "errno.h": "c",
+        "beep_gdevice.h": "c"
+    }
+}
